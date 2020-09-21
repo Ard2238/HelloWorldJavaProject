@@ -24,6 +24,8 @@ public class App
     	int num2= sc.nextInt();
     	
     	add2numbers(num1, num2);
+    	product(num1, num2);
+    	
     	sc.close();
     }
     
@@ -31,5 +33,10 @@ public class App
     	long sum= num1 + num2;
     	
     	LOG.info("This sum of "+ num1 + " and " + num2 + " == "+sum);
+    }
+    private static void product(int num1, int num2) {
+    	long pdt= num1*num2;
+    	
+    	LOG.info("This product of "+ num1 + " and " + num2 + " == "+pdt);
     }
 }
