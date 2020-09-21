@@ -1,0 +1,14 @@
+INFO  | 2020-09-21 02:23:01 | [main] javapractice.App (App.java:18) - Hello WorldWill be printed on Info
+WARN  | 2020-09-21 02:23:01 | [main] javapractice.App (App.java:19) - Hello WorldWill be printed on Warn
+ERROR | 2020-09-21 02:23:01 | [main] javapractice.App (App.java:20) - Hello WorldWill be printed on Error
+FATAL | 2020-09-21 02:23:01 | [main] javapractice.App (App.java:21) - Hello WorldWill be printed on Fatal
+INFO  | 2020-09-21 02:23:29 | [main] javapractice.App (App.java:18) - Hello WorldWill be printed on Info
+WARN  | 2020-09-21 02:23:29 | [main] javapractice.App (App.java:19) - Hello WorldWill be printed on Warn
+ERROR | 2020-09-21 02:23:29 | [main] javapractice.App (App.java:20) - Hello WorldWill be printed on Error
+FATAL | 2020-09-21 02:23:29 | [main] javapractice.App (App.java:21) - Hello WorldWill be printed on Fatal
+INFO  | 2020-09-21 02:23:37 | [main] javapractice.App (App.java:18) - Hello WorldWill be printed on Info
+WARN  | 2020-09-21 02:23:37 | [main] javapractice.App (App.java:19) - Hello WorldWill be printed on Warn
+ERROR | 2020-09-21 02:23:37 | [main] javapractice.App (App.java:20) - Hello WorldWill be printed on Error
+FATAL | 2020-09-21 02:23:37 | [main] javapractice.App (App.java:21) - Hello WorldWill be printed on Fatal
+INFO  | 2020-09-21 09:14:28 | [main] javapractice.App (App.java:26) - This sum of 10 and 20== 30
+INFO  | 2020-09-21 09:17:27 | [main] javapractice.App (App.java:33) - This sum of 10 and 20 == 30
