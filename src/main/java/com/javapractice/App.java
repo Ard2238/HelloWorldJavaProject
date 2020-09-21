@@ -25,6 +25,7 @@ public class App
     	
     	add2numbers(num1, num2);
     	product(num1, num2);
+    	modulus2numbers(num1, num2);
     	
     	sc.close();
     }
@@ -38,5 +39,10 @@ public class App
     	long pdt= num1*num2;
     	
     	LOG.info("This product of "+ num1 + " and " + num2 + " == "+pdt);
+    }
+    private static void modulus2numbers(int num1, int num2) {
+    	long mod= num1 % num2;
+    	
+    	LOG.info("This modulus of "+ num1 + " and " + num2 + " == "+mod);
     }
 }
